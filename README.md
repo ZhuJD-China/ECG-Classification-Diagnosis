@@ -5,19 +5,19 @@
 ​      Arrhythmia is a common cardiovascular syndrome. The correct identification of arrhythmia is of great significance for the prevention of cardiovascular disease. Electrocardiogram (ECG) is a kind of medical monitoring technology which reflects cardiac activity. The electrocardiogram was used to observe whether the ECG signal was abnormal or not, and whether there were abnormal cardiac beats, so as to prevent or diagnose cardiovascular disease in advance. In clinical examination, due to the influence of power frequency, EMG and other interference signals
 
 1. wavelet transform algorithm is used to filter ECG signal.
-   <img src="C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\1.png" style="height:80px;" />
+   <img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/1.png" style="height:80px;" />
    
-<img src="C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\2.png" style="height:80px;" />
+<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/2.png" style="height:80px;" />
    
    The wavelet basis function is obtained by transforming the basic wavelet through scale factors a and b.
    
-<img src="C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\3.png" style="height:80px;" />
+<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/3.png" style="height:80px;" />
 
 
 
 ​       According to its definition, continuous wavelet transform is essentially an integral wavelet transform：
 
-  <img src="C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\4.png" style="height:80px;" />
+  <img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/4.png" style="height:80px;" />
 
 2. build a deep learning based arrhythmia diagnosis model.
 
