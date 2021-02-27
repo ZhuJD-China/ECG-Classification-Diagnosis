@@ -50,7 +50,7 @@ https://www.physionet.org/content/mitdb/1.0.0/
 
 ## Model
 
-![](https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/ECG实验报告v1.1/471595_1_En_23_Fig4_HTML.png)
+![](https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/471595_1_En_23_Fig4_HTML.png)
 
 
 
