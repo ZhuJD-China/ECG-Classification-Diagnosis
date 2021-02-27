@@ -5,6 +5,8 @@
 ​      Arrhythmia is a common cardiovascular syndrome. The correct identification of arrhythmia is of great significance for the prevention of cardiovascular disease. Electrocardiogram (ECG) is a kind of medical monitoring technology which reflects cardiac activity. The electrocardiogram was used to observe whether the ECG signal was abnormal or not, and whether there were abnormal cardiac beats, so as to prevent or diagnose cardiovascular disease in advance. In clinical examination, due to the influence of power frequency, EMG and other interference signals
 
 1. wavelet transform algorithm is used to filter ECG signal.
+   <img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\int_{-\infty}^{\infty} \psi(t) d t=0}" />
+
    $$
    \int_{-\infty}^{\infty} \psi(t) d t=0
    $$
