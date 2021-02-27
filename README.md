@@ -60,21 +60,9 @@ https://www.physionet.org/content/mitdb/1.0.0/
 ![](https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/cnn_lstm_loss.png)
 ## Common evaluation indicators for classification models are Accuracy, Precision, Recall and F1-score
 
-$$
-\text { Accuracy }=\frac{T P+T N}{T P+T N+F P+F N}
-$$
-
-$$
-\text { Precision }=\frac{T P}{T P+F P}
-$$
-
-$$
-\text { Recall }=\frac{T P}{T P+F N}
-$$
-
-$$
-F 1-\text { score }=\frac{2 \times \text { Precision } \times \text { Recall }}{\text { Precision }+\text { Recall }}
-$$
+   <div align="center">
+	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/mathpix%202021-02-27%2013-06-19.png" alt="Editor" width="400">
+</div>
 
 **Macro-average方法**
 - This method is the simplest. It directly adds up the evaluation indicators of different categories (Precision/ Recall/ F1-score) and averages them, giving all categories the same weight. This method can treat each category equally, but its value will be affected by the rare category.
