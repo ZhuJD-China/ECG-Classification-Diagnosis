@@ -17,13 +17,13 @@
    The wavelet basis function is obtained by transforming the basic wavelet through scale factors a and b.
    
    <div align="center">
-	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/3.png" alt="Editor" width="250">
+	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/3.png" alt="Editor" width="300">
 </div>
 
 ​       According to its definition, continuous wavelet transform is essentially an integral wavelet transform：
 
    <div align="center">
-	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/4.png" alt="Editor" width="290">
+	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/4.png" alt="Editor" width="390">
 </div>
 
 2. build a deep learning based arrhythmia diagnosis model.
