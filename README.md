@@ -39,7 +39,7 @@ https://www.physionet.org/content/mitdb/1.0.0/
 
 ## Arrhythmia analysis
 
-<img src="C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\一个完整的心电波形.png" style="height:400px;" />
+<img src="https://github.com/ZhuJD-China/ECG-Classification-diagnosis\ECG实验报告v1.1\一个完整的心电波形.png" style="height:400px;" />
 
 * P wave: P wave is usually considered to be the beginning part of the whole ECG cycle, which represents the specific situation of the potential change during the depolarization of the atrial muscle. The front and back represent right atrial activation and left atrial activation, respectively. The length of the interval is about 0.08s-0.11s, and the amplitude does not exceed 0.25mV.
 * P-R interval: The PR interval represents the conduction time required for the excitement of the sinus node to cause the ventricular muscle to start to excite, so it is also called the atrioventricular conduction time. The length of the interval is generally 0.12s-0.2.s.
@@ -50,15 +50,15 @@ https://www.physionet.org/content/mitdb/1.0.0/
 
 ## Model
 
-![](C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\471595_1_En_23_Fig4_HTML.png)
+![](https://github.com/ZhuJD-China/ECG-Classification-diagnosis\ECG实验报告v1.1\471595_1_En_23_Fig4_HTML.png)
 
 
 
 `val_loss: 0.0326 - val_accuracy: 0.9933`
 
-![](C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\cnn_lstm_acc.png)
+![](https://github.com/ZhuJD-China/ECG-Classification-diagnosis\ECG实验报告v1.1\cnn_lstm_acc.png)
 
-![](C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\cnn_lstm_loss.png)
+![](https://github.com/ZhuJD-China/ECG-Classification-diagnosis\ECG实验报告v1.1\cnn_lstm_loss.png)
 ## Common evaluation indicators for classification models are Accuracy, Precision, Recall and F1-score
 
 $$
@@ -131,4 +131,4 @@ print('Micro f1-score', f1_score(list(Y_pred), list(Y_test), average='micro'))
     Micro precision 0.9934193874968362
     Micro recall 0.9934193874968362
     Micro f1-score 0.9934193874968362
-![](C:\Users\ZhuJD\Desktop\ECG-Classification-diagnosis\ECG实验报告v1.1\output_60_0.png)
+![](https://github.com/ZhuJD-China/ECG-Classification-diagnosis\ECG实验报告v1.1\output_60_0.png)
