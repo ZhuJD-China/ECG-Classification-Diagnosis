@@ -39,7 +39,9 @@ https://www.physionet.org/content/mitdb/1.0.0/
 
 ## Arrhythmia analysis
 
-<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BF%83%E7%94%B5%E6%B3%A2%E5%BD%A2.png" style="height:400px;" />
+<div align="center">
+	<img src="https://github.com/ZhuJD-China/ECG-Classification-Diagnosis/blob/master/ECG%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Av1.1/%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BF%83%E7%94%B5%E6%B3%A2%E5%BD%A2.png" alt="Editor" width="500">
+</div>
 
 * P wave: P wave is usually considered to be the beginning part of the whole ECG cycle, which represents the specific situation of the potential change during the depolarization of the atrial muscle. The front and back represent right atrial activation and left atrial activation, respectively. The length of the interval is about 0.08s-0.11s, and the amplitude does not exceed 0.25mV.
 * P-R interval: The PR interval represents the conduction time required for the excitement of the sinus node to cause the ventricular muscle to start to excite, so it is also called the atrioventricular conduction time. The length of the interval is generally 0.12s-0.2.s.
