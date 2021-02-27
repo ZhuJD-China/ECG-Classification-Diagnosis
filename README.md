@@ -6,6 +6,7 @@
 
 1. wavelet transform algorithm is used to filter ECG signal.
    <img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\int_{-\infty}^{\infty} \psi(t) d t=0}" />
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
    $$
    \int_{-\infty}^{\infty} \psi(t) d t=0
